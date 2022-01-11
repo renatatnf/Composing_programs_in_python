@@ -1,22 +1,22 @@
 # Composing programs in python Course
 
-## Módulos:
+## Modules:
 
-### Programação Orientada a Objetos
+### Object Oriented Programming
 
-  * Apresentação dos conceitos fundamentais
-  * Definição de Classes
-  * Herança
-  * Polimorfismo
+   * Presentation of fundamental concepts
+   * Class definition
+   * Heritage
+   * Polymorphism
   
-### Programação Funcional
+### Functional Programming
 
-  * Recursão, funções de ordem superior e Estruturas Imutáveis
-  * Map, Reduce e Filter
-  * Processamento de arquivos de dados
+   * Recursion, higher-order functions and Immutable Structures
+   * Map, Reduce and Filter
+   * Data file processing
   
-### Processamento de Dados
+### Data processing
 
-  * Threading e Multiprocessamento
-  * Locks e Context Lib
-  * Processamento de dados em paralelo - CSV, JSON e HTML/XML (Pandas + BeautifulSoup + Multiprocessing)
+   * Threading and Multiprocessing
+   * Locks and Context Lib
+   * Parallel data processing - CSV, JSON and HTML/XML (Pandas + BeautifulSoup + Multiprocessing)
